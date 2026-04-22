@@ -16,7 +16,7 @@ This project is inspired by real world transport apps and made for learning, col
 ✔ Crowd Level Monitoring
 ✔ Ticket Generator
 ✔ Nearest Stop Finder
-✔ Real-Time Clock
+✔ Real Time Clock
 ✔ Interactive Map using Canvas
 
 >Technologies Used:
